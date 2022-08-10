@@ -1,3 +1,4 @@
+import Header from '../../components/Header'
 import * as S from './styles'
 
 
@@ -8,7 +9,7 @@ type FronendProps = {
 const Frontend = ({children}: FronendProps) => {
   return (
     <S.Container>
-      Frontend {children}
+      <Header />
     </S.Container>
   )
 }
