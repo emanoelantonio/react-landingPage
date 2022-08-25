@@ -6,7 +6,7 @@ Este é um simples porém notável projeto de uma landing page construido com Re
 
 #### 📑 Tecnologias usadas :
 - [X] TypeScript;
-- [X] Rect Hooks;
+- [X] React Hooks;
 - [X] Vite;
 - [ ] Night mode;
 - [ ] Responsividade;
@@ -21,7 +21,7 @@ Este é um simples porém notável projeto de uma landing page construido com Re
 
 
 #### 🪟 Rodando o Projeto
-Caso queira fazer algumas aterações neste projeto:
+Caso queira fazer algumas alterações neste projeto:
 
 Você pode clonar o projeto abrindo o terminal e digitando:
 ```sh
