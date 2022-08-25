@@ -1,3 +1,4 @@
+![Banner](https://github.com/emanoelantonio/react-landingPage/blob/main/src/assets/Banner/banner.png)
 ### 🙋 Do que trata esse projeto ?
 Que legal te encontrar aqui lendo meus projetos!<br/>
 Este é um simples porém notável projeto de uma landing page construido com React utilizando Vite.
