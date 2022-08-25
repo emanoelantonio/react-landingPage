@@ -1,7 +1,8 @@
 ![Banner](https://github.com/emanoelantonio/react-landingPage/blob/main/src/assets/Banner/banner.png)
 ### 🙋 Do que trata esse projeto ?
 Que legal te encontrar aqui lendo meus projetos!<br/>
-Este é um simples porém notável projeto de uma landing page construido com React utilizando Vite.
+Este é um simples porém notável projeto de uma landing page construido com React utilizando Vite. <br/>Segue o layout do projeto
+[Figma](https://www.figma.com/file/8beZh1CeewBHoLaJvJ7lHo/Heroes?node-id=1%3A13)
 
 #### 📑 Tecnologias usadas :
 - [X] TypeScript;
@@ -17,6 +18,7 @@ Este é um simples porém notável projeto de uma landing page construido com Re
 * [NodeJS](https://nodejs.org/en/)
 * [Vite](https://vitejs.dev/)
 * [React-Icons](https://react-icons.github.io/react-icons/)
+
 
 #### 🪟 Rodando o Projeto
 Caso queira fazer algumas aterações neste projeto:
