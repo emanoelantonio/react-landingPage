@@ -1,4 +1,6 @@
 import { createGlobalStyle } from "styled-components";
+import bkgCircle1 from '../assets/Ellipse-1.png';
+import bkgCircle2 from '../assets/Ellipse-2.png';
 
 const GlobalStyle = createGlobalStyle`
   
@@ -14,8 +16,10 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background-color: #F8FDFF;
     font-family: 'Poppins', sans-serif;
+    background: url(${bkgCircle2}) no-repeat 1010px, url(${bkgCircle1}) no-repeat 930px;
+    background-size: inherit;
+    background-color: #F8FDFF;
   }
 
   button {
