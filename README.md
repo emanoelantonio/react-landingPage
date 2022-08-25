@@ -12,24 +12,30 @@ Este é um simples porém notável projeto de uma landing page construido com Re
 
 #### 💻 Pré-requesitos :
 
-* <a href="https://git-scm.com">Git</a><small>   (configure bash in the terminal).</small>
-* <a href="https://code.visualstudio.com">Visual Studio Code</a><small>   (recommended publisher).</small>
-* <a href="https://nodejs.org/en/">NodeJs</a><small>
-* <a href="https://vitejs.dev/">Vite</a><small>
-* <a href="https://react-icons.github.io/react-icons/">React-Icons</a><small>
+* [Git](https://git-scm.com)   (configure bash in the terminal).</small>
+* [Visual Studio Code](https://code.visualstudio.com) (recomendado)
+* [NodeJS](https://nodejs.org/en/)
+* [Vite](https://vitejs.dev/)
+* [React-Icons](https://react-icons.github.io/react-icons/)
 
 #### 🪟 Rodando o Projeto
 Caso queira fazer algumas aterações neste projeto:
-* [Clonando](#clonando)
-* [Baixando](#baixando)
-###  Clonando
+
 Você pode clonar o projeto abrindo o terminal e digitando:
 ```sh
-$ git clone https://github.com/emanoelantonio/react-landingPage
+$ git clone https://github.com/emanoelantonio/react-landingPage.git
 ```
 Depois entre na pasta do projeto.
 ```sh
 $ cd react-landingPage
+```
+Depois rode o yarn
+```sh
+$ yarn dev
+```
+Ou NPM
+```sh
+$ npm run dev
 ```
 
 ## 📑 Reporte :
