@@ -4,7 +4,7 @@ export const Container = styled.div`
   position: absolute;
   width: 154px;
   height: 77px;
-  top: 110px;
+  /* top: 110px; */
   left: 70px;
   border-radius: 12px;
   padding: 11px;
@@ -13,6 +13,10 @@ export const Container = styled.div`
 
   background: linear-gradient(135deg, #EE9AE5 0%, #5961F9 100%);
   color: #FFF;
+
+  opacity: 0;
+  animation: showOnPageCardActivity 0.5s linear forwards;
+  top: 50px;
 
   small {
     font-size: 15px;
@@ -58,5 +62,15 @@ export const Container = styled.div`
     }
 
     
+  }
+  
+  @keyframes showOnPageCardActivity{
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+      top: 110px;
+    }
   }
 `;
